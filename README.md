@@ -7,7 +7,10 @@
 
 ## Yelp Web App To Locate Businesses
 
-Server-side Scripting using Python, Flask, JSON, AJAX, and Yelp Fusion API
+Server-side Scripting using ***Python - Flask***, JSON, AJAX, and Yelp Fusion API
+
+#### View - [Yelp Web App To Locate Businesses](https://myfirstpython-2302223390.wl.r.appspot.com/).
+#### Video - [Yelp Web App To Locate Businesses](https://youtu.be/0QZrZI6FZAE).
 
 Tech Stack -
 ```
@@ -17,12 +20,14 @@ Tech Stack -
 - JSON parsers in Python and JavaScript.
 - Google Cloud Platform (GCP).
 ```
-#### View - [Yelp Web App To Locate Businesses](https://myfirstpython-2302223390.wl.r.appspot.com/).
-#### Video - [Yelp Web App To Locate Businesses](https://youtu.be/0QZrZI6FZAE).
+####
 
 ## Yelp Web App To Locate Businesses
 
-Server-side Scripting using Node.js, Angular, JSON, AJAX, Bootstrap, RWD and Yelp Fusion API
+Server-side Scripting using ***Node.js, Angular***, JSON, AJAX, Bootstrap, RWD and Yelp Fusion API
+
+#### View - [Yelp Web App To Locate Businesses](https://myfirstnode-2302223390.wl.r.appspot.com/search).
+#### Video - [Yelp Web App To Locate Businesses](https://youtu.be/1xdRXYCutRE).
 
 Tech Stack -
 ```
@@ -32,10 +37,11 @@ Tech Stack -
 - Google API and Yelp Fusion API.
 - Google Cloud Platform (GCP).
 ```
-#### View - [Yelp Web App To Locate Businesses](https://myfirstnode-2302223390.wl.r.appspot.com/search).
-#### Video - [Yelp Web App To Locate Businesses](https://youtu.be/1xdRXYCutRE).
+####
 
 ## Yelp Android App To Locate Businesses
+
+#### Video - [Yelp Android App To Locate Businesses](https://youtu.be/-0njqahhnxI).
 
 Tech Stack -
 ```
@@ -46,4 +52,4 @@ Tech Stack -
 - Google API and Yelp Fusion API.
 - Google Cloud Platform (GCP).
 ```
-#### Video - [Yelp Android App To Locate Businesses](https://youtu.be/-0njqahhnxI).
+
