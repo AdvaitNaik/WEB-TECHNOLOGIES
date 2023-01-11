@@ -46,4 +46,4 @@ Tech Stack -
 - Google API and Yelp Fusion API.
 - Google Cloud Platform (GCP).
 ```
-#### Video - [Yelp Web App To Locate Businesses](https://youtu.be/-0njqahhnxI).
+#### Video - [Yelp Android App To Locate Businesses](https://youtu.be/-0njqahhnxI).
