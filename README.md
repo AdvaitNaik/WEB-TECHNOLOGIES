@@ -1,6 +1,6 @@
 # CSCI571-WEB-TECHNOLOGIES-PROJECT
 
-## Graduate Level Course taught by Prof. Marco Papa at USC | Credits - 4
+## Graduate Level Course | Prof. Marco Papa | USC | Credits - 4
 
 1. Developed a multimodal application for discovering local businesses ranging from bars, restaurants, and cafes to hairdressers, spas, and gas stations using 6+ APIs and deployed using Google Cloud App Engine.
 2. Designed 5+ application features for pages devoted to individual locations, such as restaurants, including assisted business search, automated geo-location, crowd-sourced reviews about businesses, and in-app reservation functionality and provided a one-stop local platform for consumers to discover, connect and transact with local businesses of all sizes that develops the website and the mobile app.
