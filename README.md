@@ -1,4 +1,4 @@
-# CSCI571-WEB-TECHNOLOGIES-PROJECT
+# WEB-TECHNOLOGIES-PROJECT
 
 ## Graduate Level Course | Prof. Marco Papa | USC | Credits - 4
 
