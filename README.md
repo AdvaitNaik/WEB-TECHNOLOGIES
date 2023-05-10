@@ -1,4 +1,4 @@
-# WEB-TECHNOLOGIES-PROJECT
+# WEB-TECHNOLOGIES
 
 ## Graduate Level Course | Prof. Marco Papa | USC | Credits - 4
 
