@@ -9,7 +9,7 @@
 
 Server-side Scripting using ***Python - Flask***, JSON, AJAX, and Yelp Fusion API
 
-<! #### View - [Yelp Web App To Locate Businesses](https://myfirstpython-2302223390.wl.r.appspot.com/).
+<!--- #### View - [Yelp Web App To Locate Businesses](https://myfirstpython-2302223390.wl.r.appspot.com/). --->
 #### Video - [Yelp Web App To Locate Businesses](https://youtu.be/0QZrZI6FZAE).
 
 Tech Stack -
